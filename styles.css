@@ -1,0 +1,41 @@
+.box {
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+}
+
+.box1 {
+    background-image: url(https://loremflickr.com/320/240/cat);
+}
+
+.box2 {
+    background-image: url(https://loremflickr.com/320/240/dog);
+}
+.box3 {
+    background-image: url(https://loremflickr.com/320/240/hawaii);
+}
+.box4 {
+    background-image: url(https://loremflickr.com/320/240/nba);
+}
+
+.box5 {
+    background-image: url(https://loremflickr.com/320/240/grammys);
+}
+.box6 {
+    background-image: url(https://loremflickr.com/320/240/love);
+}
+.box7 {
+    background-image: url(https://loremflickr.com/320/240/coding);
+}
+
+.box8 {
+    background-image: url(https://loremflickr.com/320/240/psychology);
+}
+.box9 {
+    background-image: url(https://loremflickr.com/320/240/college);
+}
+
+.col {
+    margin: 3px;
+}
